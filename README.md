@@ -16,5 +16,5 @@ A high-precision visual simulation of the official FIA start-light sequence used
 ## How to Run
 1. Install requirements: `pip install PyQt5`
 2. Run the apps: 
-   * For Fuel Calculator: `python f1_fuel_calculator.py`
-   * For Reaction Tester: `python reaction_tester.py`
+   * For Fuel Calculator: `python f1 fuel calculator.py`
+   * For Reaction Tester: `python f1 reaction test.py`
